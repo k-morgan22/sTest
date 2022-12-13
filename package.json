@@ -1,0 +1,25 @@
+{
+  "name": "stest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k-morgan22/sTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/k-morgan22/sTest/issues"
+  },
+  "homepage": "https://github.com/k-morgan22/sTest#readme",
+  "devDependencies": {
+    "@babel/core": "^7.20.5",
+    "postcss": "^8.4.20",
+    "webpack": "^5.75.0"
+  }
+}
